@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"../components/Hero.tsx -> react-countdown\":{\"id\":\"../components/Hero.tsx -> react-countdown\",\"files\":[\"static/chunks/node_modules_react-countdown_dist_index_es_js.js\"]}}"
